@@ -1,0 +1,5 @@
+git add (file name) - to add file into a repository
+git commit -m (file name) - to commit the changes in repository
+git push - to push the changes into main server
+git status - to see the state of working repository
+git --version - shows version of the git installed
