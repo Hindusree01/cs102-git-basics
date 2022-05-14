@@ -1,5 +1,14 @@
+
 git add (file name) - to add file into a repository
 git commit -m (file name) - to commit the changes in repository
 git push - to push the changes into main server
 git status - to see the state of working repository
 git --version - shows version of the git installed
+
+
+In today's lecture, I learnt basics of how to use Visual Studio Code. At first sir explained about the extensions that are used in Visual studio code.
+Then thought about the extension called Markdown all in one. Which helps to create one's own web page. Then thought us how to create a folder and file. 
+File name like README.md are recommended. Then I installed markdown extension. Started creating my own webpage using it. The basic thing to start the webpage
+were thought. The basic thing to start with in a webpage are Main title and Subtitles. We have to use "#" before a line to make it a Main TItle. Similarly 
+"##" before a line to make it a Subtitle and "###" before to make it sub-sub title. at top right we have a option called preview in which we can get the
+result of work we done.
